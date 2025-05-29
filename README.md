@@ -20,6 +20,8 @@ This implementation utilizes Lineage OS and MindTheGapps to get Android running 
 
 [Google Apps Installation for LineageOS](https://wiki.lineageos.org/gapps/)
 
+On install, change the display size and text in to be the smallest in:  Settings -> Display -> Display size and text 
+
 ``` shell
 
 ```
