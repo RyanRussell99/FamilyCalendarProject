@@ -22,6 +22,8 @@ This implementation utilizes Lineage OS and MindTheGapps to get Android running 
 
 On install, change the display size and text in to be the smallest in:  Settings -> Display -> Display size and text 
 
+Display Resolution Change: Settings -> System -> Raspberry Pi Settings -> Display Resolution (Requires reboot to apply)
+
 ``` shell
 
 ```
