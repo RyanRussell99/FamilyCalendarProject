@@ -24,6 +24,16 @@ On install, change the display size and text in to be the smallest in:  Settings
 
 Display Resolution Change: Settings -> System -> Raspberry Pi Settings -> Display Resolution (Requires reboot to apply)
 
+Enable Developer Settings: Settings -> About Tablet -> Press Build number 7 times (a pop up will say you have enabled developer mode)
+
+Enable Wireless Debugging: Settings -> System -> Developer Options -> Wireless Debugging
+
+Pair Wirelessly: Settings -> System -> Developer Options -> Wireless Debugging -> Pair Device with Pairing Code
+
+[Pair ADB over WiFi](https://wiki.lineageos.org/how-to/adb-over-wifi/)
+
+
+
 ``` shell
 
 ```
