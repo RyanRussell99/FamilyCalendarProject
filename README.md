@@ -19,7 +19,7 @@ An Android on Raspberry Pi 4 based touch screen device. This will be used to dis
 
 
 
-## Android Software
+## Android Software (tried and did not work well)
 
 This method was ultimately abandoned as the OS was too slow for the Pi 4. The alternative seemed to be a better fit for the Pi 4.
 
